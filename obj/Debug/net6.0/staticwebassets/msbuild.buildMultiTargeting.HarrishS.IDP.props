@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HarrishS.IDP.props" />
+</Project>
